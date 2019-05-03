@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-print("<<#Python3 Script to PRINT EVEN Numbers#>>\nInput number in form of 1, 50 (Example).\n")
+print("<<#Python3 Script to PRINT EVEN Numbers#>>\nInput number. (Example).\n")
 
 
 a = int(input("Start Range Numbers: "))
